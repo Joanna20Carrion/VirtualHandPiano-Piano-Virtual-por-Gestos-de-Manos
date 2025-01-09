@@ -52,6 +52,11 @@ VirtualHandPiano es un piano virtual interactivo que utiliza tu cámara para det
 - **Mediapipe**: Para el seguimiento de las manos.
 - **Pygame**: Para reproducir los sonidos de las notas musicales.
 
-## Contribución
+## Autor
+**Joanna Alexandra Carrión Pérez**: Bachiller de Ingeniería Electrónica. Apasionada por la Ciencia de Datos y la Inteligencia Artificial. [LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/)
 
-Si deseas contribuir a este proyecto, por favor, envía un pull request o abre un issue para discutir tus ideas.
+## Contacto
+Para cualquier duda o sugerencia, contáctame a través de **joannacarrion14@gmail.com**.
+
+## Contribuciones
+¡Contribuciones son bienvenidas! Si tienes ideas o mejoras, no dudes en hacer un fork del repositorio y enviar un pull request.

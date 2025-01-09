@@ -1,2 +1,58 @@
-# VirtualHandPiano-Piano-Virtual-por-Gestos-de-Manos
-Combina visión por computadora y procesamiento de audio para crear un piano virtual controlado por el movimiento de tus manos. 
+# VirtualHandPiano
+
+VirtualHandPiano es un piano virtual interactivo que utiliza tu cámara para detectar el movimiento de tus manos y reproducir notas musicales en tiempo real. Este proyecto combina tecnologías como OpenCV, Mediapipe y Pygame para crear una experiencia musical divertida y creativa.
+
+## Características
+- 🎵 Piano virtual con 12 teclas que representan las notas musicales.
+- 🎹 Detección del dedo índice para tocar las notas según la posición en la pantalla.
+- 📹 Uso de la cámara para el seguimiento de las manos en tiempo real.
+- 🔊 Reproducción de sonidos mediante archivos .wav.
+
+## Instalación
+
+1. Clona este repositorio:
+    ```bash
+    git clone https://github.com/tuusuario/VirtualHandPiano.git
+    cd VirtualHandPiano
+    ```
+
+2. Asegúrate de tener instalado Python 3.7 o superior.
+
+3. Instala las dependencias necesarias:
+    ```bash
+    pip install opencv-python mediapipe pygame
+    ```
+
+4. Crea una carpeta llamada `sounds` en el directorio principal del proyecto y añade los archivos `.wav` correspondientes a las notas (por ejemplo, `A.wav`, `B.wav`, etc.).
+
+## Uso
+
+1. Conecta una cámara web a tu computadora.
+2. Ejecuta el script principal:
+    ```bash
+    python piano_virtual.py
+    ```
+3. Mueve tu mano frente a la cámara para interactuar con el piano virtual. Presiona la tecla **q** para salir.
+
+## Estructura del Proyecto
+
+| Archivo           | Descripción                                   |
+|-------------------|-----------------------------------------------|
+| `piano_vitual.py` | Código principal del proyecto.                |
+| `sounds/`         | Carpeta que contiene los archivos de sonido.  |
+
+## Requisitos
+
+- Python 3.7 o superior.
+- Cámara web.
+- Archivos de sonido en formato `.wav` para las notas musicales.
+
+## Tecnologías Utilizadas
+
+- **OpenCV**: Para capturar y procesar el video en tiempo real.
+- **Mediapipe**: Para el seguimiento de las manos.
+- **Pygame**: Para reproducir los sonidos de las notas musicales.
+
+## Contribución
+
+Si deseas contribuir a este proyecto, por favor, envía un pull request o abre un issue para discutir tus ideas.

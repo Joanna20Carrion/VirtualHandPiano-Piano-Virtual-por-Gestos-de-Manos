@@ -12,8 +12,7 @@ VirtualHandPiano es un piano virtual interactivo que utiliza tu cámara para det
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/tuusuario/VirtualHandPiano.git
-    cd VirtualHandPiano
+    gh repo clone Joanna20Carrion/VirtualHandPiano-Piano-Virtual-por-Gestos-de-Manos
     ```
 
 2. Asegúrate de tener instalado Python 3.7 o superior.

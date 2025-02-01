@@ -8,7 +8,7 @@ VirtualHandPiano es un piano virtual interactivo que utiliza tu cámara para det
 - 📹 Uso de la cámara para el seguimiento de las manos en tiempo real.
 - 🔊 Reproducción de sonidos mediante archivos .wav.
 
-## Instalación
+## Instalación 
 
 1. Clona este repositorio:
     ```bash

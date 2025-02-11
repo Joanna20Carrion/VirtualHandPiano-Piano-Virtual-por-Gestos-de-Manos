@@ -1,4 +1,4 @@
-# VirtualHandPiano
+# VirtualHandPiano 
 
 VirtualHandPiano es un piano virtual interactivo que utiliza tu cámara para detectar el movimiento de tus manos y reproducir notas musicales en tiempo real. Este proyecto combina tecnologías como OpenCV, Mediapipe y Pygame para crear una experiencia musical divertida y creativa.
 
